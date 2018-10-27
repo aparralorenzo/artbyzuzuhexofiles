@@ -138,5 +138,5 @@ theme: hexo-theme-element
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/aparralorenzo/artbyzuzu.git
+  repo: https://github.com/aparralorenzo/artbyzuzuPublic.git
   branch: master

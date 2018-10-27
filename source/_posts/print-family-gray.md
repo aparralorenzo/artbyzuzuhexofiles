@@ -1,4 +1,4 @@
 ---
-title: P A T R O N F A M I L I A
+title: P R I N T F A M I L Y G R A Y
 ---
 {% instagram https://www.instagram.com/p/BpHqkfgANxT %}
