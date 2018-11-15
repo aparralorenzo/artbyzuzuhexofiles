@@ -1,5 +1,5 @@
 ---
-title:  P R I N T F A M I L Y
+title:  PRINT FAMILY
 tags:
 - pattern
 - patron

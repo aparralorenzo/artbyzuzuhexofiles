@@ -1,5 +1,5 @@
 ---
-title: S E A T D E S I G N
+title: SEAT DESIGN
 tags:
 - silla diseño
 - seat design

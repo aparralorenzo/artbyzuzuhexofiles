@@ -1,5 +1,5 @@
 ---
-title: S T A I N E D G L A S S 
+title: STAINED GLASS 
 tags:
 - vitral diseño
 - stained glass design
