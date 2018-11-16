@@ -4,6 +4,6 @@ tags:
 - map series
 - surco
 - tomas marsano
-- modrian
+- mondrian
 ---
 {% instagram https://www.instagram.com/p/BqHb0X8FCCx %}
